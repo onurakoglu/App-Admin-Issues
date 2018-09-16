@@ -1,0 +1,1 @@
+Since June 2018, iOS 9 compatibility has been broke. Downgrading apps is working but blocking and hiding updates is not working. App Store crashes.
